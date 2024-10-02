@@ -50,4 +50,3 @@ This augmented reality (AR) project uses **Unity AR Core** and **Vuforia** to cr
 
 ---
 
-Feel free to use this description as a base and modify it to add any additional unique features or functionalities that your project might include.
